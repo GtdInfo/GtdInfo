@@ -74,8 +74,6 @@ Entregar soluções tecnológicas confiáveis, escaláveis e seguras, agregando 
 ---
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-💙 GTDINFO • Tecnologia da Informação  
-🌐 https://gtdinfo.com.br  
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+💙 GTDINFO • Tecnologia da Informação<br>
+🌐 https://gtdinfo.com.br
 </p>
