@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://github.com/GtdInfo/GtdInfo/blob/main/Github%20Banner.png" width="700"/>
+  <img src="https://github.com/GtdInfo/GtdInfo/blob/main/Github%20Banner.png" height="260"/>
 </p>
 
 <h1 align="center">🚀 GTDINFO</h1>
@@ -60,7 +60,7 @@ Nosso foco é garantir **alta disponibilidade, segurança e performance**, permi
 
 Atuamos com desenvolvimento e implantação de soluções como:
 
-- Sistemas de atendimento (Whaticket, integrações WhatsApp)
+- Sistemas de atendimento (Whaticket, integrações WhatsApp)  
 - Plataformas de comunicação corporativa  
 - Automação de processos e integrações (APIs)  
 - Infraestrutura cloud e DevOps  
