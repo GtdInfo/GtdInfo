@@ -46,12 +46,12 @@ Infraestrutura de TI • Cloud • Comunicação • Suporte Técnico
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gtdinfo&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=gtdinfo&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GtdInfo&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=GtdInfo&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=gtdinfo&theme=tokyonight"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=GtdInfo&theme=tokyonight"/>
 </p>
 
 ---
