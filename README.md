@@ -43,19 +43,6 @@ Infraestrutura de TI • Cloud • Comunicação • Suporte Técnico
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GtdInfo&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=GtdInfo&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
-
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=GtdInfo&theme=tokyonight"/>
-</p>
-
----
-
 ## 🚀 Sobre a GTDINFO
 
 Somos especialistas em soluções tecnológicas completas, atuando com:
@@ -69,6 +56,26 @@ Nosso foco é garantir **alta disponibilidade, segurança e performance**, permi
 
 ---
 
+## 🤝 Parcerias & Projetos
+
+Atuamos com desenvolvimento e implantação de soluções como:
+
+- Sistemas de atendimento (Whaticket, integrações WhatsApp)
+- Plataformas de comunicação corporativa  
+- Automação de processos e integrações (APIs)  
+- Infraestrutura cloud e DevOps  
+
+---
+
+## 📌 Missão
+
+Entregar soluções tecnológicas confiáveis, escaláveis e seguras, agregando valor real aos negócios dos nossos clientes.
+
+---
+
 <p align="center">
-  💙 Desenvolvido pela GTDINFO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+💙 GTDINFO • Tecnologia da Informação  
+🌐 https://gtdinfo.com.br  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 </p>
